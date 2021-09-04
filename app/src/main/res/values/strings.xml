@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PomodoroAppWithKotlin</string>
+    <string name="TimeFinish">Time Finished</string>
+</resources>
